@@ -1,0 +1,556 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1722, 31.1048]  
+        },
+        "properties": {
+          "name": "Himalayan Environmental Studies & Conservation Organisation (HESCO)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.2776, 32.2190] 
+        },
+        "properties": {
+          "name": "Waste Warriors",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.9647, 30.9090] 
+        },
+        "properties": {
+          "name": "Environment Protection Society (EPS)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1881, 32.2396] 
+        },
+        "properties": {
+          "name": "Clean Himalaya",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.9446, 31.7074]  
+        },
+        "properties": {
+          "name": "Yuva Vikas Mandal",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.7800, 31.7189] 
+        },
+        "properties": {
+          "name": "Centre for Sustainable Development (CSD)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.2658, 32.1020] 
+        },
+        "properties": {
+          "name": "People's Action For People In Need (PAPN)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.2896, 31.4630] 
+        },
+        "properties": {
+          "name": "Ecological and Environmental Preservation Society (EEPS)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1010, 32.2396] 
+        },
+        "properties": {
+          "name": "Himalayan Cleaners",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.5087, 31.7255] 
+        },
+        "properties": {
+          "name": "Environment and Social Upliftment Society (ESUS)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.9486, 32.5534]  
+        },
+        "properties": {
+          "name": "Zero Waste Himalaya",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.6254, 31.6576]
+        },
+        "properties": {
+          "name": "Bhagirathi NGO",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1670, 32.5325] 
+        },
+        "properties": {
+          "name": "Green Circle",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.5362, 32.0584]  
+        },
+        "properties": {
+          "name": "Himalayan Nature Society",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.2935, 30.5472]  
+        },
+        "properties": {
+          "name": "Prakriti Parivar",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1734, 31.1048]  
+        },
+        "properties": {
+          "name": "Himachal Pradesh Council for Science, Technology, and Environment (HIMCOSTE)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.9592, 31.7160]  
+        },
+        "properties": {
+          "name": "Himalayan Society for Nature and Mountain Sports",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.9605, 30.9227] 
+        },
+        "properties": {
+          "name": "Green Life Foundation",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.2862, 32.2202]  
+        },
+        "properties": {
+          "name": "Him Environmental Foundation (HEF)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1897, 32.2396] 
+        },
+        "properties": {
+          "name": "Waste Management Himalaya",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.5845, 31.1048] 
+        },
+        "properties": {
+          "name": "Friends of Nature",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.2754, 32.2190] 
+        },
+        "properties": {
+          "name": "Himalayan Environmental Studies and Conservation Organization (HESCO)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1025, 32.2396] 
+        },
+        "properties": {
+          "name": "Mountain Cleaners",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.2890, 32.2396] 
+        },
+        "properties": {
+          "name": "Society for Upliftment of Environment",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.7800, 31.7189] 
+        },
+        "properties": {
+          "name": "Ecology, Environment & Conservation Society (EECS)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.2896, 32.2396] 
+        },
+        "properties": {
+          "name": "The Mountain Cleaners",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.5019, 31.7255] 
+        },
+        "properties": {
+          "name": "Social Upliftment and Natural Environment Protection Society (SUNEPS)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.5320, 31.7255] 
+        },
+        "properties": {
+          "name": "Environmental Development Action",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.6107, 31.6576] 
+        },
+        "properties": {
+          "name": "Waste Free Himachal",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1670, 32.5325] 
+        },
+        "properties": {
+          "name": "Green Hills",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.5362, 32.0584] 
+        },
+        "properties": {
+          "name": "Himachal Environment Protection Society (HEPS)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.2935, 30.5472] 
+        },
+        "properties": {
+          "name": "Clean Himalayas",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1010, 32.2396] 
+        },
+        "properties": {
+          "name": "Eco-Friendly Himalaya",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.9647, 30.9090] 
+        },
+        "properties": {
+          "name": "The Green Circle",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1722, 31.1048]
+        },
+        "properties": {
+          "name": "Waste Management Foundation (WMF)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.2776, 32.2190]  
+        },
+        "properties": {
+          "name": "Dharamsala Clean and Green",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1881, 32.2396] 
+        },
+        "properties": {
+          "name": "EcoSikh",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1025, 32.2396] 
+        },
+        "properties": {
+          "name": "Youth for Environment",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.2658, 32.1020] 
+        },
+        "properties": {
+          "name": "Society for Environment Preservation (SEP)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.7800, 31.7189] 
+        },
+        "properties": {
+          "name": "Eco-Friendly Society",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.2896, 32.2396]  
+        },
+        "properties": {
+          "name": "Waste Management Organization",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.9592, 30.9227] 
+        },
+        "properties": {
+          "name": "Save Himalayas",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.5087, 31.7255] 
+        },
+        "properties": {
+          "name": "Green Society",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.5320, 31.7255] 
+        },
+        "properties": {
+          "name": "Clean and Green Himachal",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.6254, 31.6576] 
+        },
+        "properties": {
+          "name": "Environment Friendly Society (EFS)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1670, 32.5325] 
+        },
+        "properties": {
+          "name": "Himachal Pradesh Environment Protection Council (HPEPC)",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.5362, 32.0584]  
+        },
+        "properties": {
+          "name": "Eco-Warriors",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.2935, 30.5472]  
+        },
+        "properties": {
+          "name": "Clean and Green Himachal",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.1010, 32.2396]  
+        },
+        "properties": {
+          "name": "Himalayan Eco Foundation",
+          "category": "Waste Management"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.9647, 30.9090]  
+        },
+        "properties": {
+          "name": "Waste Reduction Himalaya",
+          "category": "Waste Management"
+        }
+      }
+    ]
+  }
+  
